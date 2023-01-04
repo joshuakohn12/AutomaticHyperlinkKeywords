@@ -12,3 +12,5 @@ links = {
 }
 
 Run code
+
+Insert results in StackEdit at https://stackedit.io/ to insert links for a quick copy & paste. 
