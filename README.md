@@ -11,7 +11,7 @@ links = {
     "Aenean": "https://www.dictionary.com/browse/aenean"
 }
 
-Use keywords.xml file to quickly change specific keywords & URL for a quick copy and paste for python array. 
+Use keywords.xslx file to quickly change specific keywords & URL for a quick copy and paste for python array. 
 
 Run code
 
