@@ -9,7 +9,6 @@ links = {
     "Lorem ipsum": "https://en.wikipedia.org/wiki/Lorem_ipsum",
     "aliquet": "https://www.dictionary.com/browse/aliquet",
     "Aenean": "https://www.dictionary.com/browse/aenean"
-
 }
 
 Run code
