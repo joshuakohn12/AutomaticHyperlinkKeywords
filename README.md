@@ -11,6 +11,8 @@ links = {
     "Aenean": "https://www.dictionary.com/browse/aenean"
 }
 
+Use keywords.xml file to quickly change specific keywords & URL for a quick copy and paste for python array. 
+
 Run code
 
 Insert results in StackEdit at https://stackedit.io/ to insert links for a quick copy & paste. 
